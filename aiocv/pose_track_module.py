@@ -8,7 +8,7 @@ import cv2
 import mediapipe as mp
 import time
 class PoseDetector():
-    def __init__(self,mode=False,upBody=False,smooth=True,detectionConfidence=0.5,trackConfidence=0.5) -> None:
+    def __init__(self,mode=False,smooth=True,detectionConfidence=0.5,trackConfidence=0.5) -> None:
         """
         Default Mode : False
         Only Up Body : False
@@ -18,7 +18,6 @@ class PoseDetector():
         If You Are Not Getting Desired Results, Consider Changing self.detectionConfidence = 1 And self.trackConfidence = 1
         """
         self.mode=mode
-        self.upBody=upBody
         self.smooth=smooth
         self.detectionConfidence=detectionConfidence
         self.trackConfidence=trackConfidence

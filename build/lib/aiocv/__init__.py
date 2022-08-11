@@ -16,5 +16,5 @@ from aiocv.gesture_volume_control_module import GestureVolumeControl
 from aiocv.qr_code_reader_module import QRCodeReader
 __title__ = "aiocv"
 __author__ = "Abhimanyu Sharma, https://github.com/0xN1nja"
-__version__ = "0.0.35 (Latest)"
+__version__ = "0.0.36 (Latest)"
 __licence__ = "MIT"
