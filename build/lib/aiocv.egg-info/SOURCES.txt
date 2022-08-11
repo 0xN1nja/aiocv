@@ -1,0 +1,13 @@
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.py
+aiocv.egg-info/PKG-INFO
+aiocv.egg-info/SOURCES.txt
+aiocv.egg-info/dependency_links.txt
+aiocv.egg-info/requires.txt
+aiocv.egg-info/top_level.txt
+haarcascades/haarcascade_car.xml
+haarcascades/haarcascade_eye.xml
+haarcascades/haarcascade_russian_plate_number.xml
+haarcascades/haarcascade_smile.xml

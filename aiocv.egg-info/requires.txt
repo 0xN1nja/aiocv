@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+msvc-runtime
+pycaw
+comtypes
+qrcode
+numpy
